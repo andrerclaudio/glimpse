@@ -1,1 +1,3 @@
 pytictoc
+nltk
+pyenchant
